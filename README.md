@@ -153,3 +153,4 @@ cp -r hadoopHive/ /mnt/c/Users/user/Desktop
 ```
 Nota: user se cambia por tu nombre de usuario# HadoopYarnHive
 # HadoopYarnHive
+# HadoopYarnHive
